@@ -27,3 +27,16 @@ This analysis was designed to answer key business questions, including:
 
 The answers to these questions help dealerships optimize pricing strategies,
 inventory decisions, and profit expectations.
+
+Interactive Dashboard
+
+An interactive dashboard was created using Google Looker Studio to visualize
+key insights from the analysis.
+
+The dashboard highlights:
+- Core sales KPIs
+- Profit margin trends by vehicle make
+- The impact of mileage and condition on pricing
+
+🔗 View the dashboard here:
+https://lookerstudio.google.com/s/mLjYgG3SJZY
