@@ -40,3 +40,16 @@ The dashboard highlights:
 
 🔗 View the dashboard here:
 https://lookerstudio.google.com/s/mLjYgG3SJZY
+
+What I Learned
+
+Through this project, I strengthened my ability to:
+
+- Clean and structure real-world datasets for analysis
+- Validate and correct KPI calculations to ensure accuracy
+- Translate raw data into business-relevant insights
+- Design clear and readable dashboards for non-technical stakeholders
+- Document analytical work in a clear and professional way
+
+This project reinforced the importance of data quality, correct aggregation,
+and effective communication when working with business data.
