@@ -53,3 +53,11 @@ Through this project, I strengthened my ability to:
 
 This project reinforced the importance of data quality, correct aggregation,
 and effective communication when working with business data.
+
+Dashboard Export (PDF)
+
+A PDF export of the Looker Studio dashboard is included in the repository
+for quick review without requiring access to Looker Studio.
+
+Location:
+dashboards/car_sales_project.pdf
